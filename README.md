@@ -11,6 +11,11 @@
 
 -   ⚡ What I like to do: I like so much **reading**, **running** and **playing the piano**... and **coding** of course.
 
+<h3 align="center">Projects:</h3>
+-    [Solo Protesis Dental](https://axel.soy) check the code here ➡️ [axelmanzanilla/soloprotesisdental](https://github.com/axelmanzanilla/soloprotesisdental)
+-    [Portfolio](https://axelmanzanilla.com) check the code here ➡️ [axelmanzanilla/portfoliov2](https://github.com/axelmanzanilla/portfoliov2)
+-    [Impregnarte](https://impregnarte.com) check the code here ➡️ [axelmanzanilla/impregnarte](https://github.com/axelmanzanilla/impregnarte)
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
