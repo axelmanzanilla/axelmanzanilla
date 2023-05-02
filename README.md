@@ -13,12 +13,9 @@
 
 <h3 align="center">Projects:</h3>
 
--    [Solo Protesis Dental](https://axel.soy) check the code here ➡️ 
+-    [Solo Protesis Dental](https://axel.soy) check the code here ➡️ [axelmanzanilla/soloprotesisdental](https://github.com/axelmanzanilla/soloprotesisdental)
 
-[axelmanzanilla/soloprotesisdental](https://github.com/axelmanzanilla/soloprotesisdental)
-
--    [Portfolio](https://axelmanzanilla.com) check the code here ➡️ 
-[axelmanzanilla/portfoliov2](https://github.com/axelmanzanilla/portfoliov2)
+-    [Portfolio](https://axelmanzanilla.com) check the code here ➡️ [axelmanzanilla/portfoliov2](https://github.com/axelmanzanilla/portfoliov2)
 
 -    [Impregnarte](https://impregnarte.com) check the code here ➡️ [axelmanzanilla/impregnarte](https://github.com/axelmanzanilla/impregnarte)
 
